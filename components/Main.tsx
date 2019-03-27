@@ -1,3 +1,4 @@
+// Imagine your important bug fix here!
 import * as React from "react";
 import styled, { createGlobalStyle } from "styled-components";
 import Head from "next/head";
